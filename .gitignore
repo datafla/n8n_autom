@@ -1,0 +1,16 @@
+# Data files
+data.xlsx
+report_EVP_final.xlsx
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS files
+Thumbs.db
+Desktop.ini
